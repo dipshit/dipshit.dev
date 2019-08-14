@@ -1,6 +1,8 @@
 ## It me
 
-Hi
+Hi. I make stupid shit.
+
+[see my portfolio](https://github.com/dipshit/)
 
 ## Minecraft
 
