@@ -6,4 +6,6 @@ Hi. I make stupid shit.
 
 ## Minecraft
 
-join me at `mc.dipshit.dev`. Contact me to get whitelisted
+join me at `mc.dipshit.dev`
+
+Contact me to get whitelisted
