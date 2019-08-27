@@ -1,6 +1,6 @@
 ## It me
 
-Hi. I make stupid shit.
+Hi. I make 'interesting projects'.
 
 [see my portfolio](https://github.com/dipshit/)
 
@@ -8,7 +8,7 @@ Hi. I make stupid shit.
 
 join me at `mc.dipshit.dev`
 
-Contact me to get whitelisted
+[add yourself to the whitelist](https://github.com/dipshit/spigot-server#contributing)
 
 ## Keys
 
